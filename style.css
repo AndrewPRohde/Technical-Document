@@ -24,8 +24,8 @@
 #navbar ul {
     list-style-type: none;
     height: 80%;
-    overflow-x: auto;
-    overflow-y: hidden;
+    overflow-x: hidden;
+    overflow-y: inherit;
 }
 
 #navbar li {
